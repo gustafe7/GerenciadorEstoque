@@ -83,8 +83,8 @@ gerenciador_estoque/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/gustafe7/Gerenciador-de-Estoque.git
-cd Gerenciador-de-Estoque
+git clone https://github.com/gustafe7/GerenciadorEstoque.git
+cd GerenciadorEstoque
 ```
 
 ### 2. Criar ambiente virtual e instalar dependências
